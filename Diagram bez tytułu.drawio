@@ -1,20 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0">
   <diagram name="Page-1" id="d66fe2ae-3e9f-cf2f-6d29-e24063ad5d60">
-    <mxGraphModel dx="2852" dy="2336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="9507" dy="5803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="L0keWuzQxGvEsDEKCJsT-1" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;&lt;font style=&quot;color: rgb(4, 4, 4);&quot;&gt;IP zew:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: verdana; text-wrap-mode: wrap; background-color: rgb(249, 253, 255);&quot;&gt;79.124.122.112&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(4, 4, 4); font-size: 29px;&quot;&gt;192.168.1.0/24&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(4, 4, 4); font-size: 29px;&quot;&gt;VPN IP: 10.11.12.1/24:&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="100" x="1290" y="660" as="geometry" />
+          <mxGeometry height="80" width="100" x="1580" y="420" as="geometry" />
         </mxCell>
         <mxCell id="L0keWuzQxGvEsDEKCJsT-4" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" value="&lt;font style=&quot;font-size: 29px; color: rgb(4, 4, 4);&quot;&gt;192.168.5.0/24&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 29px; color: rgb(4, 4, 4);&quot;&gt;VPN IP: 10.11.12.5/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="100" x="2380" y="130" as="geometry" />
+          <mxGeometry height="85" width="100" x="2760" y="230" as="geometry" />
         </mxCell>
         <mxCell id="L0keWuzQxGvEsDEKCJsT-5" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" value="&lt;font style=&quot;font-size: 26px; color: rgb(4, 4, 4);&quot;&gt;192.168.2.0/24&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px; color: rgb(4, 4, 4);&quot;&gt;VPN: 10.11.12.2/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="100" x="130" y="80" as="geometry" />
+          <mxGeometry height="85" width="100" x="220" y="280" as="geometry" />
         </mxCell>
         <mxCell id="L0keWuzQxGvEsDEKCJsT-6" parent="1" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" value="&lt;font style=&quot;color: rgb(4, 4, 4); font-size: 29px;&quot;&gt;192.168.3.0/24&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(4, 4, 4); font-size: 29px;&quot;&gt;VPN IP: 10.11.12.3/24&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="100" x="1280" y="-120" as="geometry" />
+          <mxGeometry height="85" width="100" x="1530" y="-500" as="geometry" />
         </mxCell>
         <mxCell id="L0keWuzQxGvEsDEKCJsT-9" edge="1" parent="1" source="L0keWuzQxGvEsDEKCJsT-1" style="endArrow=none;html=1;rounded=0;" target="L0keWuzQxGvEsDEKCJsT-6" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
